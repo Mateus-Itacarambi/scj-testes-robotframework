@@ -1,6 +1,6 @@
-# Testes do SDJ com RobotFramework
+# Testes do SCJ com RobotFramework
 
-Projeto de testes do SDJ utilizando [RobotFramework](https://robotframework.org/).
+Projeto de testes do SCJ utilizando [RobotFramework](https://robotframework.org/).
 
 ## Procedimento para instalação
 1. Pré-requisito
