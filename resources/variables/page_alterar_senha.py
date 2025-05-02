@@ -1,0 +1,5 @@
+DIV_ALTERAR_SENHA="//div[contains(text(), 'Alterar senha')]"
+INPUT_SENHA_ATUAL="//input[@id='senhaAtual']"
+INPUT_NOVA_SENHA="//input[@id='novaSenha']"
+INPUT_REPETIR_NOVA_SENHA="//input[@id='repetirNovaSenha']"
+BUTTON_ALTERAR_SENHA="//button[@type='submit']"

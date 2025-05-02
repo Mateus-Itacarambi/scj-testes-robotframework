@@ -1,0 +1,7 @@
+NAV_INICIAL="//nav[@id='DashboardSidebar']/div/div"
+A_PAGINA_INICIAL="//a[@href='/']/div[contains(text(), 'Página inicial')]"
+A_SOLICITAR_RELATORIO="//a[@href='/relatorioSolicitar']"
+A_RELATORIOS_DISPONIVEIS="//a[@href='/relatoriosDisponiveis']"
+DIV_AVATAR="//div[@data-testid='Avatar']"
+A_ALTERARR_SENHA="//a[@href='/alterarSenhaUsuario']"
+A_SAIR="//a[@href='/auth/sair']"
